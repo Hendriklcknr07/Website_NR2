@@ -1,0 +1,59 @@
+.headline
+{
+  display: flex;
+  justify-content: center;
+}
+
+.links-header
+{
+  text-decoration: none;
+  display: flex;
+  justify-content: flex-end;
+}
+
+a:hover
+{
+  text-decoration: underline;
+}
+
+.position-bild-heven
+{
+  display: flex;
+  justify-content: center;
+}
+
+.position-derwesten
+{
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+}
+
+.position-h4
+{
+  display: flex;
+  justify-content: center;
+}
+
+.imige-container
+{
+  background-color: blue;
+  margin: 0%;
+}
+
+.position-h2
+{
+  display: flex;
+  justify-content: center;
+}
+
+body
+{
+  margin:0;
+  background-color: whitesmoke;
+}
+
+.header
+{
+  margin-top: 0;
+}
